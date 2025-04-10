@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/img2.jpg" alt="Banner Hamburgueria São Francisco" width="100%" style="max-height: 300px;">
+  <img src="imagens/img2.jpg" alt="Banner Hamburgueria São Francisco" width="100%" style="max-height: 200px;">
 </p>
 
 <h1 align="center">Hamburgueria São Francisco </h1>
@@ -48,10 +48,12 @@ Neste projeto, o foco é permitir pedidos via terminal, simulando uma experiênc
 
 ---
 
-## 📝 Licença
+## ⚖️ Licença ⚖️
 
 Este projeto está licenciado sob a **Licença MIT (Massachusetts Institute of Technology)** — uma licença de software permissiva amplamente utilizada que garante liberdade para uso, cópia, modificação e distribuição, com poucas restrições.
 
+
 > Ao utilizar este projeto, é necessário manter o aviso de direitos autorais original e incluir uma cópia da licença em todas as cópias ou partes substanciais do software.
+
 
 Para mais informações, consulte o arquivo [LICENSE](./LICENSE).

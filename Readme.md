@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/img2.jpg" alt="Banner Hamburgueria São Francisco" width="100%" style="max-height: 100px;">
+  <img src="imagens/img2.jpg" alt="Banner Hamburgueria São Francisco" width="100%" style="max-height: 500px;">
 </p>
 
 <h1 align="center">Hamburgueria São Francisco </h1>
